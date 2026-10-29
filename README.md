@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sarayu Reddy 👋
 
-<!--
-**sarayureddy0403/sarayureddy0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering (AI) Graduate
 
-Here are some ideas to get you started:
+🔍 Aspiring Data Scientist | Generative AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Data Science with Generative AI.
+
+### About Me
+- Interested in Data Science, Machine Learning, and Generative AI.
+- Practising Python and SQL.
+- Building my technical skills through hands-on projects.
+- Actively looking for entry-level opportunities in Data Science and AI.
+
+### Technical Skills
+- Programming: Python, SQL
+- Areas of Interest: Data Science, Machine Learning, Generative AI
+- Tools: Git, GitHub
+
+### Projects
+- Protein Structure Prediction System — Deep Learning project.
+- More Data Science and AI projects coming soon!
+
+### Career Goal
+To apply my skills to real-world problems and grow as a Data Science and AI professional.
